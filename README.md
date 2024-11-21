@@ -1,5 +1,6 @@
 # csv-to-excel-converter
 
+![](I1.png)
 This Python script converts a CSV file into an Excel file using the pandas library. It reads data from a specified CSV file and writes it to an Excel file while maintaining the structure of the data.
 
 Features
