@@ -1,6 +1,5 @@
 # csv-to-excel-converter
 
-![](I1.png)
 
 ## CSV to Excel Converter Application 📱
 
@@ -71,6 +70,7 @@ Error Handling:
 
 If the CSV file contains errors (e.g., missing data, invalid formats), the app provides a detailed report for resolution.
 
+![](I1.png)
 
 
 
