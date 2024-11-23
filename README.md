@@ -11,30 +11,39 @@ A CSV to Excel Converter application is a utility that converts CSV (Comma-Separ
 1. File Conversion
 Convert CSV files to Excel formats (XLS/XLSX).
 Support for large CSV files without performance degradation.
+
 2. Formatting Options
 Auto-detect and format data types (text, numbers, dates).
 Preserve delimiters and special characters.
 Customizable column widths and cell formatting.
+
 3. Batch Conversion
 Convert multiple CSV files to Excel format simultaneously.
+
 4. Error Handling
 Detect and notify users of formatting issues or invalid CSV structures.
 Log errors and provide suggestions for corrections.
+
 5. Data Preview
 Display a preview of the CSV file before conversion.
 Allow manual adjustments, such as renaming columns or editing data.
+
 6. Customization
 Set delimiter preferences (comma, semicolon, tab).
 Enable or disable headers in the output file.
 Choose between XLS and XLSX output formats.
+
 7. Performance Optimization
 Handle large datasets efficiently without crashing or slowing down.
 Provide progress indicators for lengthy conversions.
+
 8. Integration and Export Options
 Export converted files directly to cloud services like Google Drive or OneDrive.
 Integration with email clients for sharing files post-conversion.
+
 9. Cross-Platform Support
 Available on Windows, macOS, Linux, and mobile platforms.
+
 10. Security
 Ensure data privacy with local file processing (no internet upload required).
 Encrypt sensitive data during conversion (optional).
