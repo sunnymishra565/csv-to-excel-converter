@@ -70,6 +70,8 @@ Error Handling:
 
 If the CSV file contains errors (e.g., missing data, invalid formats), the app provides a detailed report for resolution.
 
+## screenshot🤖
+
 ![](I1.png)
 
 
